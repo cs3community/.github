@@ -11,7 +11,7 @@
 
 [Topical Workshops](https://indico.cern.ch/category/18416)
 
-Disclaimer: CS3 SIGs are run by exclusively by community _volunteers_ on the side of their other daily jobs. Your involvement in building the community and actively participating in these activites is encouraged and appreciated.
+_Disclaimer: CS3 SIGs are run by exclusively by community *volunteers* on the side of their other daily jobs. Your involvement in building the community and actively participating in these activites is encouraged and appreciated._
 
 <!--
 
