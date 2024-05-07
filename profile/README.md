@@ -2,15 +2,14 @@
 
 ### Annual Conferences
 
-[All CS3 Annual conferences](http://www.cs3community.org/)
+[List of all CS3 Annual conferences](http://www.cs3community.org/)
 
 ### Special Interest Groups (CS3 SIGs)
 
-CS3 SIGs:
    * Jupyter Notebooks: [chatroom](https://app.gitter.im/#/room/#cs3org_Jupyter:gitter.im)
    * OCM Open Cloud Mesh Federation Protocol: [chatroom](https://app.gitter.im/#/room/#cs3org_OCM:gitter.im)
 
-[SIGs Topical Workshops](https://indico.cern.ch/category/18416)
+[Topical Workshops](https://indico.cern.ch/category/18416)
 
 Disclaimer: CS3 SIGs are run by exclusively by community volunteers on the side of their other daily jobs. Your involvement in building community and actively participating in these activites is encouraged and appreciated.
 
