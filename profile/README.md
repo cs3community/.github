@@ -8,6 +8,7 @@
 
    * Jupyter Notebooks: [chatroom](https://app.gitter.im/#/room/#cs3org_Jupyter:gitter.im)
    * OCM Open Cloud Mesh Federation Protocol: [chatroom](https://app.gitter.im/#/room/#cs3org_OCM:gitter.im)
+   * EFSS Federation for EOSC: [chatroom](https://app.gitter.im/#/room/!BKIkvcJQeUaXcVOzYR:gitter.im)
 
 [Topical Workshops](https://indico.cern.ch/category/18416)
 
