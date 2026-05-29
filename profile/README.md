@@ -2,12 +2,12 @@
 
 ### Annual Conferences
 
-[List of all CS3 Annual conferences](http://www.cs3community.org/)
+The community meets on a yearly basis, [the community page](http://www.cs3community.org/) contains all references to past events
 
 ### Special Interest Groups (CS3 SIGs)
 
+   * Open Cloud Mesh Federation Protocol: **[OCM frontpage](https://www.cs3community.org/ocm)** | [chatroom](https://app.gitter.im/#/room/#cs3org_OCM:gitter.im)
    * Jupyter Notebooks: [chatroom](https://app.gitter.im/#/room/#cs3org_Jupyter:gitter.im)
-   * OCM Open Cloud Mesh Federation Protocol: [chatroom](https://app.gitter.im/#/room/#cs3org_OCM:gitter.im)
    * EFSS Federation for EOSC: [chatroom](https://app.gitter.im/#/room/!BKIkvcJQeUaXcVOzYR:gitter.im)
 
 [Topical Workshops](https://indico.cern.ch/category/18416)
